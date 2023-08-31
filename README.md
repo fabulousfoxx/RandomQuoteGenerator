@@ -1,2 +1,3 @@
 # RandomQuoteGenreator
-https://fabulousfoxx.github.io/RandomQuoteGenreator/
+
+https://fabulousfoxx.github.io/RandomQuoteGenerator/
