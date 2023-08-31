@@ -46,7 +46,7 @@ body{
   background-color: rgba(255,255,255,.3);
   border-color: rgba(255,255,255,.6);
   text-transform: uppercase;
-  wisth: 300px;
+  width: 300px;
 }
 
 .btn:hover{
